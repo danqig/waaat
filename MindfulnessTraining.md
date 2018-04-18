@@ -1,5 +1,5 @@
 # 文章素材
-## 1. Mindfulness Training in Early Childhood 儿童正念学习[摘要](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1750-8606.2012.00241.x)
+## Mindfulness Training in Early Childhood 儿童正念学习[摘要](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1750-8606.2012.00241.x)
 ### 为什么推荐本篇文章
 + 查阅公众号，之前做过针对父母的[正念父母线上训练](https://mp.weixin.qq.com/s?__biz=MzAwNzUyODQxOQ==&mid=2651544792&idx=2&sn=4a1ac480e8847770038993e7451bfc30&scene=0#wechat_redirect&rd2werd=1#wechat_redirect)，不知道当时的报名情况及反馈如何
 + 针对儿童的正念训练目前比较新
