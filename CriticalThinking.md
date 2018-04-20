@@ -1,5 +1,5 @@
 # 文章素材0420
-## 主题：培养儿童批判性思维（improve your child's critical thinking skills）
+## 主题：培养儿童批判性思维（improve your child's critical thinking skills）- 标题未定
 
 ### （引入）
 
@@ -56,7 +56,7 @@
 
 #### 广开题路，写下思路
 
-讨论的话题甚至可以延伸到孩子的课本知识和事实以外。伦理、道德、和时事政策都会变成有意思的讨论话题。你也许会突然发现，和孩子突然有好多话可以讲！
+和孩子讨论的话题甚至可以延伸到孩子的课本知识和事实以外。伦理、道德、和时事政策都会变成有意思的讨论话题。你也许会突然发现，和孩子突然有好多话可以讲！
 
 ![lets_talk](http://ws1.sinaimg.cn/large/9150e4e5ly1fkcahcri96g206o06o74g.gif)
 
