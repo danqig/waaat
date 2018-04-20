@@ -30,7 +30,7 @@
 
 #### 鼓励自主探索
 
-提供更多玩耍的机会，让孩子自主探索“什么会导致什么”，帮助孩子大胆猜测。比如说，孩子们会反复从高处扔下一把汤勺，看看会发生什么，而且也会不断尝试如何才能让积木塔平衡。家长在参与他们的[假装游戏](https://mp.weixin.qq.com/s?__biz=MzAwNzUyODQxOQ==&mid=2651545021&idx=1&sn=47fc8704ff0592e634639f263d0952d3&scene=0#wechat_redirect&rd2werd=1#wechat_redirect)时，也可以多想想其他的玩法，观察孩子的反应。
+提供更多玩耍的机会，让孩子自主探索“什么会导致什么”，帮助孩子大胆猜测。比如说，孩子们有时会反复从高处扔下一把汤勺看看会发生什么，有时会不断尝试如何才能让积木塔平衡。家长在参与他们的[假装游戏](https://mp.weixin.qq.com/s?__biz=MzAwNzUyODQxOQ==&mid=2651545021&idx=1&sn=47fc8704ff0592e634639f263d0952d3&scene=0#wechat_redirect&rd2werd=1#wechat_redirect)时，也可以多想想其他的玩法，观察孩子的反应。
 
 ![an_observing_look](https://ws1.sinaimg.cn/large/9150e4e5gw1fb5isfhtcjj208c08caa3.jpg)
 
