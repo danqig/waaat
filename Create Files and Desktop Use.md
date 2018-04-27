@@ -13,5 +13,6 @@
 - Whenever you make changes, remember to summarize it and commit the change
 - When you create a new file on the web version, do remember to refresh the desktop version to see the new file on your laptop
 
-### to embed images into .md files
-copy image on the site and paste the URL into the bracket () at ![]()
+### to embed/display images in .md files
+- copy image on the site and paste the URL into the bracket () at ![]()
+- to add a local image, put the image into the same folder
